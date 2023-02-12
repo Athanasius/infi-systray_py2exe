@@ -1,2 +1,2 @@
-infi.systray
-py2exe
+infi.systray==0.1.12; sys_platform == 'win32'
+py2exe==0.13.0.0; sys_platform == 'win32'
